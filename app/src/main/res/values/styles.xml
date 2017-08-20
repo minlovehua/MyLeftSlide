@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!--当多点触控时会产生一些问题，所以在style中直接屏蔽多点触控-->
+        <item name="android:windowEnableSplitTouch" >false </item>
+        <item name="android:splitMotionEvents" >false </item>
+
+    </style>
+
+</resources>
+
+
