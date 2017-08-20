@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.HorizontalScrollView;
 import android.widget.TextView;
 
-//来源：http://blog.csdn.net/tyzlmjj/article/details/47060817
+
 
 
 /**
